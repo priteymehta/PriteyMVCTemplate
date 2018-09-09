@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.UI.WebControls;
-using ENT = CRM.Framework.Entity;
+using ENT = Pritey.Framework.Entity;
 
 /// <summary>
 /// Summary description for MySession

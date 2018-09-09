@@ -4,16 +4,15 @@ using System.Linq;
 using System.Security.Principal;
 using System.Web;
 using System.Web.Security;
-using WS.Framework.Common;
 using Microsoft.AspNet.Identity;
 using System.Text.RegularExpressions;
 using System.Globalization;
 using System.Web.Helpers;
-using ENT = CRM.Framework.Entity;
-using BAL = CRM.Framework.Logic;
+using ENT = Pritey.Framework.Entity;
+using BAL = Pritey.Framework.Logic;
 using Truesys.Application.Admin;
 using Microsoft.AspNet.Identity.Owin;
-using CRM.Framework.Common;
+using Pritey.Framework.Common;
 
 public static class ExtendedMethods
 {

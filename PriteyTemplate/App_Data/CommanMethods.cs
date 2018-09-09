@@ -7,8 +7,8 @@ using System.Reflection;
 using System.Text;
 using System.Web;
 using System.Web.Mvc;
-using BAL = CRM.Framework.Logic;
-using ENT = CRM.Framework.Entity;
+using BAL = Pritey.Framework.Logic;
+using ENT = Pritey.Framework.Entity;
 
 public static class CommanMethods
 {
